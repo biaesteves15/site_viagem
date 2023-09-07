@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.fontSize": 12,
+    "workbench.editor.restoreViewState": false
+}
